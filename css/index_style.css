@@ -2,7 +2,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 .background {
-    background: url('images/indexbg.jpg');
+    background: url('../images/indexbg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
